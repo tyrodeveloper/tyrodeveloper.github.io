@@ -6,7 +6,7 @@ book{
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     position: absolute;
     top: 0;
-    left: -300px;
+    left: 0;
     bottom: 0;
     z-index: 1;
     overflow-y: auto;
