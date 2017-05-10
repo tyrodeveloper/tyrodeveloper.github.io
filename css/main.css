@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 100%;
+    height: 100%;
 }
 .book {
     position: relative;
@@ -45,12 +46,12 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-   
+   left: 300px;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-   
+   left: 300px;
 }
 a {
     text-decoration: none;
