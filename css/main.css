@@ -29,6 +29,7 @@ body {
     overflow-y: auto;
     color: #000;
     background: #fff;
+    height: 100%
 }
 .book-search-input {
     padding: 10px;
