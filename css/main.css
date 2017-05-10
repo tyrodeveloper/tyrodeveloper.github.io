@@ -16,20 +16,20 @@ book{
     border-right: 1px solid rgba(0,0,0,.07);
 }
 book-search-input {
-    padding: 6px;
+    padding: 10px;
     transition: top .5s ease;
     background: #fff;
     border-bottom: 1px solid rgba(0,0,0,.07);
     border-top: 1px solid rgba(0,0,0,.07);
     margin-bottom: 10px;
     margin-top: -1px;
-    left:0;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    left: 300px;
 }
 nav ul li, footer ul li {
     display: inline;
