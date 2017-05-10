@@ -15,6 +15,16 @@ book{
     background: #fafafa;
     border-right: 1px solid rgba(0,0,0,.07);
 }
+book-body {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 300px;
+    bottom: 0;
+    overflow-y: auto;
+    color: #000;
+    background: #fff;
+}
 book-search-input {
     padding: 10px;
     transition: top .5s ease;
