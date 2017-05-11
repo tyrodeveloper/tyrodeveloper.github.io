@@ -11,6 +11,11 @@ body {
 header{
 margin-left: 300px;
 }
+footer{
+margin-left: 300px;
+    top: 100%;
+    bottom: 0;
+}
 .book-summary{
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     position: absolute;
@@ -53,7 +58,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 60px;
    left: 300px;
 }
 a {
