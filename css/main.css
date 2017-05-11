@@ -1,12 +1,15 @@
 body {
     margin: 60px auto;
     width: 100%;
-   
+   height: 80%
 }
 .book {
     width: 80%;
     height: 70%
    
+}
+header{
+margin-left: 300px;
 }
 .book-summary{
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
