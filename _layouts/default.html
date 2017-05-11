@@ -6,6 +6,7 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
+			<div class="book">
 			<header>
 	    				<nav>
 	    				<ul>
@@ -16,7 +17,7 @@
 	    				</ul>
 					</nav>
 			</header>
-			<div class="book">
+			
 				<div class="book-summary">
 					<div id="book-search-input" role="search">
    				 		<input type="text" placeholder="Type to search">
@@ -34,18 +35,21 @@
        						 </li>
 					  </ul >
 					</nav>
+				</div>
+				<div>
 					<div class="book-body">
 			
 					{{ content }}
 			
 					</div><!-- /.container -->
 				</div>
-			</div>
+			
 			<footer>
 	    		<ul>
 	        		<li><a href="/">email</a></li>
 	        		<li><a href="/">github.com/hankquinlan</a></li>
 				</ul>
 			</footer>
+			</div>
 		</body>
 	</html>
