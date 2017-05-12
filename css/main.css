@@ -31,6 +31,17 @@ margin-left: 300px;
    .book-summary{
    display: none!important
    }
+   .book-body {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    left: 0;
+    bottom: 100px;
+    overflow-y: auto;
+    color: #000;
+    background: #fff;
+    
+}
 }
 .book-body {
     position: absolute;
