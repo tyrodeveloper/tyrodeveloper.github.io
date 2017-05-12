@@ -27,6 +27,11 @@ margin-left: 300px;
     background: #fafafa;
     border-right: 1px solid rgba(0,0,0,.07);
 }
+@media only screen and (max-width: 500px){
+   .book-summary{
+   display: none!important
+   }
+}
 .book-body {
     position: absolute;
     top: 50px;
