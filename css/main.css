@@ -10,7 +10,6 @@ header{
 margin-left: 300px;
 }
 footer{
-margin-left: 300px;
     top: 100%;
     bottom: 0;
 }
@@ -76,12 +75,12 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-   left: 300px;
+
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 60px;
-   left: 300px;
+   
 }
 a {
     text-decoration: none;
