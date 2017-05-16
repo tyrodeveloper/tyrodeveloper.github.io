@@ -63,6 +63,17 @@ margin-left: 0!important;
     top: 100%;
     bottom: 0;
 }
+.col1 {
+	width:33%;
+	position:relative;
+	left:0!important;
+}
+.col2 {
+	width:33%;
+	position:relative;
+	left:0!important;
+	
+}
 }
 .book-body {
     position: absolute;
