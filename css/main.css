@@ -40,6 +40,13 @@ footer{
 	left:5%;
 	
 }
+.col3 {
+	float:left;
+	width:33%;
+	position:relative;
+	left:5%;
+	
+}
 @media only screen and (max-width: 500px){
    .book-summary{
    display: none!important
