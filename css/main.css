@@ -40,6 +40,14 @@ footer{
 	left:5%;
 	
 }
+.ig_message {
+    margin-right: .5em;
+    display: inline-block;
+    font-size: .85em;
+    line-height: 1.2;
+    padding: 0;
+    padding-top: .2em;
+}
 @media only screen and (max-width: 500px){
    .book-summary{
    display: none!important
