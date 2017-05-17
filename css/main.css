@@ -47,6 +47,7 @@ footer{
     line-height: 1.5;
     padding: 0;
     padding-top: .2em;
+    border-top:	.2em solid #fff;
 }
 @media only screen and (max-width: 500px){
    .book-summary{
